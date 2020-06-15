@@ -4224,6 +4224,9 @@ img {
 #vcomment button:hover {
   background-color: #ff7242;
 }
+#vcomment textarea {
+  background: url("https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1938100201,3028802418&fm=26&gp=0.jpg") 100% 100% no-repeat;
+}
 #vcomment .vimg {
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
